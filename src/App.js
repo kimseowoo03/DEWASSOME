@@ -655,7 +655,6 @@ const styles = {
     alignItems: "center",
     gap: 10,
     marginBottom: 20,
-    alignItems: "center",
   },
   next: {
     width: "70%",
