@@ -342,7 +342,7 @@ function Result() {
 
         {/* 스킨케어 가이드 */}
         <div style={styles.guideCard}>
-          <h3 style={{ margin: "0px 0px 10px 0px", fontSize: 16 }}>개인 맞춤 스킨케어 가이드</h3>
+          <h3 style={{ margin: "0px 0px 10px 0px", fontSize: 16 }}>탄력 리프팅 맞춤 가이드</h3>
 
           <img
             src="/skin.png"
